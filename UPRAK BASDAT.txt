@@ -1,0 +1,15 @@
+NAMA : NUR ADILAWATI
+NPM  : 5520118061
+KELAS: IF A 2018 
+
+=============================================
+
+1. SELECT * FROM fakultas WHERE Kode_Fakultas ='02';
+   SELECT * FROM fakultas WHERE Kode_Fakultas ='03';
+   SELECT * FROM fakultas WHERE Kode_Fakultas ='04';
+2. SELECT*FROM fakultas CROSS JOIN mahasiswa_lulus;
+3. SELECT nama_mahasiswa FROM Mahasiswa_baru;
+4. SELECT*FROM fakultas;
+5.
+
+FINISH !!!
